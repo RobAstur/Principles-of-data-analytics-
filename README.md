@@ -2,7 +2,7 @@
 
 
 
-![image palmer penguins](https://storage.googleapis.com/kaggle-datasets-images/3891364/6761038/a6c069bb3552b208bbec9adc63dcf287/dataset-cover.png?t=2023-11-06-11-38-26)
+![image palmer penguins](https://www.gabemednick.com/post/penguin/featured_hu23a2ff6767279debab043a6c8f0a6157_878472_720x0_resize_lanczos_2.png)
 
 
 
