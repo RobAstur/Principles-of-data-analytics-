@@ -2,13 +2,13 @@
 
 
 
-![image palmer penguins](https://www.gabemednick.com/post/penguin/featured_hu23a2ff6767279debab043a6c8f0a6157_878472_720x0_resize_lanczos_2.png)
+![image palmer penguins](https://miro.medium.com/v2/resize:fit:794/1*-L98msP9fNZaFsW45j84tQ.png)
 
 
+This aim of this project is to analyse the palmer penguin data sets created by Alison and provide valuable information.
+Data set was created by [Alison Horst](https://allisonhorst.github.io/palmerpenguins/</a>) using the data collected by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER. It contains 
 
-## About this project
 
-This project is about 
 
 ## use of this project
 
