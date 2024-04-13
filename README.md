@@ -5,9 +5,9 @@
 ![image palmer penguins](https://miro.medium.com/v2/resize:fit:794/1*-L98msP9fNZaFsW45j84tQ.png)
 
 
-This aim of this project is to analyse the palmer penguin data sets created by Alison and provide insightful information.
-Data set was created by [Alison Horst] (https://allisonhorst.com/>) using the data collected by **Dr. Kristen Gorman** and **the Palmer Station, Antarctica LTER** during the period of 2007 – 2009.
-The data set is a collection of measurements of the three species of penguins that live in the Palmer Archipelago in Antarctica (Gentoo, Adelie, and Chinstrap).
+The aim of this project is to analyse the palmer penguin data sets created by Alison and provide insightful information.
+Data set was created by [Alison Horst](https://allisonhorst.com/>) using the data collected by **Dr. Kristen Gorman** and **the Palmer Station, Antarctica LTER** during the period of 2007 – 2009.
+The data set is a collection of different measurements of the three species of penguins (Gentoo, Adelie, and Chinstrap) that live in the Palmer Archipelago in Antarctica.
 
 
 ## Use of this project
@@ -18,20 +18,21 @@ The data set is a collection of measurements of the three species of penguins th
 
 
 In order to work with this repository the author recommends the installations of below packages/programs.
-*	[Visual studio](https://visualstudio.microsoft.com/downloads/). 
-*	Latest version of Python and mo Pandas, Matplotlib and NumPy modules. All pf it include in  [Anaconda ]( https://www.anaconda.com/download/)
+
+*	Install the latest version of Python and Pandas, Matplotlib and NumPy modules. All of it include in  [Anaconda ]( https://www.anaconda.com/download/). 
+*   To start using the notebooks, I recomend to install [Visual studio](https://visualstudio.microsoft.com/downloads/). 
 
 
 ## Getting help
 
 
-To get help with this project please contact email G00438875@atu.ie
+To get help with this projec use the section of issues in my repository. To learn how to create an issue from my repository see [Github issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository)
 
 
-## contribute
+## Contribute
 
-Everyone is welcome to contribute, develop and improve this project. All the proposal will be studied and if possible implemented.
+I accept different types of contributions. In order to contribute with this repository use pull request section in github. Guide can be found here: [Contributing](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## Author
 
-This repository and project was created by Roberto Gomez Garcia, a student from High diploma of data analytics in ATU.
+This repository and project was created by Roberto Gomez Garcia, a student from High diploma of data analytics in ATU. 
