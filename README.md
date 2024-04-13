@@ -5,25 +5,33 @@
 ![image palmer penguins](https://miro.medium.com/v2/resize:fit:794/1*-L98msP9fNZaFsW45j84tQ.png)
 
 
-This aim of this project is to analyse the palmer penguin data sets created by Alison and provide valuable information.
-Data set was created by [Alison Horst](https://allisonhorst.github.io/palmerpenguins/</a>) using the data collected by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER. It contains 
+<p>This aim of this project is to analyse the palmer penguin data sets created by Alison and provide insightful information.
+Data set was created by [Alison Horst] (https://allisonhorst.com/>) using the data collected by <b>Dr. Kristen Gorman<b> and <b>the Palmer Station, Antarctica LTER<b> during the period of 2007 – 2009.
+The data set is a collection of measurements of the three species of penguins that live in the Palmer Archipelago in Antarctica (Gentoo, Adelie, and Chinstrap).<p>
 
 
+## Use of this project
 
-## use of this project
 
-Why this project is usefull 
 
 ## Getting started
 
-How users can get started with the project
+
+In order to work with this repository the author recommends the installations of below packages/programs.
+•	[Visual studio](https://visualstudio.microsoft.com/downloads/). 
+•	Latest version of Python and mo Pandas, Matplotlib and NumPy modules. All pf it include in  [Anaconda ]( https://www.anaconda.com/download/)
+
 
 ## Getting help
 
-Where users can get help with this project
+
+To get help with this project please contact email G00438875@atu.ie
+
 
 ## contribute
 
-Who maintains and contributes to the project
+Everyone is welcome to contribute, develop and improve this project. All the proposal will be studied and if possible implemented.
 
 ## Author
+
+This repository and project was created by Roberto Gomez Garcia, a student from High diploma of data analytics in ATU.
