@@ -21,7 +21,7 @@ In order to work with this repository the author recommends the installations of
 
 *	Install the latest version of Python and Pandas, Matplotlib and NumPy modules. All of it include in  [Anaconda ]( https://www.anaconda.com/download/). 
 *   To start using the notebooks, I recomend to install [Visual studio](https://visualstudio.microsoft.com/downloads/). 
-
+*   Don't forget to run Kernel.
 
 ## Getting help
 
