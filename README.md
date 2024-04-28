@@ -12,8 +12,8 @@ The data set is a collection of different measurements of the three species of p
 ## Use of this project
 
 This project is interesting and have different uses for several reasons.
-Firstly it focus on the body mass and its combination with other parameters. This approach gives us a clear understanding on how the body mass of the species influence the composition of the colony. 
-This repository is interesting for other students that are starting in the world of data analytics. It provides an insightful analysis of the influence of the body mass in the colony. For people that are starting in the data analytic world, it provides simple graphs and code that can be easily reused. 
+Firstly it focus on the body mass as a key driver. This approach gives us a clear understanding on how the body mass of the species influence the composition of the colony. 
+Moreover, this repository is interesting for other students that are starting in the world of data analytics. It provides an insightful analysis of the influence of the body mass in the colony. For people that are starting in the data analytic world, it provides simple graphs and code that can be easily reused. 
 
 
 ## Getting started
@@ -23,6 +23,7 @@ In order to work with this repository the author recommends the installations of
 *	Install the latest version of Python and Pandas, Matplotlib and NumPy modules. All of it include in  [Anaconda ]( https://www.anaconda.com/download/). 
 *   To start using the notebooks, I recomend to install [Visual studio](https://visualstudio.microsoft.com/downloads/). 
 *   Don't forget to restart Kernel and run the cells.
+*   Dont forget to removed NAN from the data set.
 
 ## Getting help
 
